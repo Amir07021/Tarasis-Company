@@ -1,0 +1,33 @@
+body
+{background: #efefef url("Мой сайт/logo7.png");	margin :0;	padding: 0; 
+	font: 16px/24px Arial, Tahoma, sans-serif;
+}
+a{text-decoration: none;}
+/*Главное меню*/
+
+div.mid{width: 1000px;margin :0px ; }
+div.header {height: 200px; background:#991d99 ;}
+div.footer {height: 100px; margin: 100px; padding: 50px; color:#996515 }
+/*Шапка сайта*/
+div.menu1 {float:right;  margin : 0px -800px 10px 100px;  height: 99px; line-height: 99px;}
+div.menu1 a{margin: 0 0 0 10px; color:  #010d19;}
+div.menu1 a:hover { color: #30d5c8; }
+div.aficha {padding: 20px 50px 0px 50px; margin: -95px -400px 0px 500px;  background-color : #c0c0c0 }
+div.aficha h3{ font-size: 29px; font-weight: normal; text-align: center;  }
+div.aficha p{text-align: center;}
+div.aficha a{font-size: 20px; color:#996515; font-weight: bold;
+background: #3f0856 ; border: 1px solid #3f0856; padding: 5px 15px; border-radius: 3px; box-shadow: 2px 2px 7px -1px #777; text-shadow: 0px 0px 3px #777;  } 
+div.aficha a:hover{background: #30d5c8 ; border: 1px solid #046d88;}
+div.mid1 {padding: 20px 50px 0px 50px; margin: 0px 150px 10px 10px;  background-color :#996515 ; text-shadow: 0px 0px 3px #050e5b;}
+div.caption h1{height: 0px ; margin: 0px 300px ; text-align: center; } 
+
+/*Cтруктура сайта*/
+
+div.mid1 {margin: 250px 0px 0px 1200px ; height: 400px ; padding:10px ; background: #c0c0c0; width: 700px;}
+div.mid1 img{display: inline-block; margin: 10px 50px;padding: 0px 30px 0px 0px;}
+div.mid1 {margin: 250px 0px 0px 1200px ; height: 400px ; padding:10px ; background: #c0c0c0; width: 700px;}
+div.sponsors {margin: 0px;}
+div.mid2 h2{margin: -250px 0px 0px 0px; height: 400px;  padding:10px; background: #c0c0c0; width: 700px; }
+div.mid2 img{margin: 400px 0px 0px 0px;}
+div.mid2 t{ margin: 400px 0px 0px 0px; }
+div.mid3 {margin: -300px 0px 0px 0px ; height: 500px ; padding:10px ; background: #c0c0c0; width: 400px;}
